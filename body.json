@@ -1,0 +1,23 @@
+{
+    "client_msg_id": "8b90d861-34b5-499c-90a4-6472f920d3c8",
+    "type": "message",
+    "text": "das",
+    "user": "U05J9B0V1SL",
+    "ts": "1689710215.495269",
+    "blocks": [
+        {
+            "type": "rich_text",
+            "block_id": "UVzM4",
+            "elements": [
+                {
+                    "type": "rich_text_section",
+                    "elements": [{ "type": "text", "text": "das" }]
+                }
+            ]
+        }
+    ],
+    "team": "T05HKGACQE7",
+    "channel": "C05H57C94FR",
+    "event_ts": "1689710215.495269",
+    "channel_type": "channel"
+}
